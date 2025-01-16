@@ -11,4 +11,3 @@ Getting the basics for local running going
 ## Usage
 
 1. You'll need an environment with jupyter to run the code, see `requirements.txt` for everything you need.
-1. 
