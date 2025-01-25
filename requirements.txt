@@ -1,6 +1,7 @@
 jupyterlab
 ipywidgets
 func_adl_xAOD
+uproot
 
 # Running local - not released yet.
 git+https://github.com/gordonwatts/ServiceX-Local.git@feat/injection
