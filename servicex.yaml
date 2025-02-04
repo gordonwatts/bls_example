@@ -1,0 +1,4 @@
+api_endpoints:
+  - endpoint: https://servicex.af.uchicago.edu
+    name: totally-bogus
+    token: "233727362"
