@@ -87,3 +87,4 @@ public
 # Large data files
 *.root.1
 trigger_4mu.ipynb
+.code-workspace
