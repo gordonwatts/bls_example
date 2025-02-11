@@ -6,7 +6,8 @@ Example code to show (and test) BLS data access
 
 Getting the basics for local running going
 
-- [ ] `servicex-local` can't run on a local file yet.
+- [x] `servicex-local` can't run on a local file yet.
+- New `func_adl_servicex_xaodr22` that is released seems to work for this BLS stuff!!
 
 ## Usage
 
